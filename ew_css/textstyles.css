@@ -1,0 +1,84 @@
+.Style1{font-family: 'Helvetica-Bold','Helvetica',sans-serif;
+font-size: 48px; 
+font-weight:700; 
+margin:0;
+color: #FEFFFF;
+word-wrap: break-word;}
+.Style2{font-family: 'Helvetica-Bold','Helvetica',sans-serif;
+font-size: 18px; 
+font-weight:700; 
+margin:0;
+word-wrap: break-word;}
+.Style3{font-family: 'Helvetica',sans-serif;
+font-size: 12px; 
+margin:0;
+word-wrap: break-word;}
+.Style4{font-family: 'Helvetica',sans-serif;
+font-size: 18px; 
+margin:0;
+word-wrap: break-word;}
+.Style5{font-family: 'Helvetica',sans-serif;
+font-size: 16px; 
+margin:0;
+word-wrap: break-word;}
+.Style6{font-family: 'Arial-BoldMT','Arial',sans-serif;
+font-size: 24px; 
+font-weight:700; 
+margin:0;
+color: #FEFFFF;
+word-wrap: break-word;}
+.Style7{font-family: 'Helvetica',sans-serif;
+font-size: 20px; 
+margin:0;
+word-wrap: break-word;}
+.Style8{font-family: 'Helvetica-Light','Helvetica',sans-serif;
+font-size: 18px; 
+font-weight:300; 
+margin:0;
+word-wrap: break-word;}
+.Style9{font-family: 'Helvetica',sans-serif;
+font-size: 18px; 
+margin:0;
+color: #FEFEFF;
+word-wrap: break-word;}
+.Style10{font-family: 'Helvetica-Bold','Helvetica',sans-serif;
+font-size: 17px; 
+font-weight:700; 
+margin:0;
+word-wrap: break-word;}
+.linkStyle_11{font-family: 'Helvetica-Bold','Helvetica',sans-serif;
+font-size: 17px; 
+font-weight:700; 
+color: #000000;
+text-decoration: none; 
+/*100#00F900#000000#000000*/
+word-wrap: break-word;}
+a.linkStyle_11:visited{color:#000000; text-decoration:none;}
+a.linkStyle_11:hover{color:#000000; text-decoration:underline;}
+.Style14{font-family: 'Helvetica-Bold','Helvetica',sans-serif;
+font-size: 17px; 
+font-weight:700; 
+word-wrap: break-word;}
+.Style15{font-family: 'ArialMT','Arial',sans-serif;
+font-size: 12px; 
+margin:0;
+word-wrap: break-word;}
+.Style16{font-family: 'Helvetica',sans-serif;
+font-size: 46px; 
+margin:0;
+color: #FEFFFF;
+word-wrap: break-word;}
+.Style17{font-family: 'Helvetica',sans-serif;
+font-size: 24px; 
+margin:0;
+word-wrap: break-word;}
+.Style18{font-family: 'Helvetica',sans-serif;
+font-size: 36px; 
+margin:0;
+word-wrap: break-word;}
+.Style19{font-family: 'Helvetica-Bold','Helvetica',sans-serif;
+font-size: 24px; 
+font-weight:700; 
+margin:0;
+word-wrap: break-word;}
+body{-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing: grayscale}
